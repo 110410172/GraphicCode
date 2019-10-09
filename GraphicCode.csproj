@@ -5,6 +5,11 @@
     <Authors>jack.sun</Authors>
     <Description>For login validate</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/110410172/GraphicCode</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/110410172/GraphicCode.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
